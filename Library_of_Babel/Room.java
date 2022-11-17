@@ -1,0 +1,15 @@
+
+/**
+ * Write a description of class Room here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class Room {
+    /**
+     * Constructor for objects of class Room
+     */
+    public Room() {
+        // initialise instance variables
+    }
+}
